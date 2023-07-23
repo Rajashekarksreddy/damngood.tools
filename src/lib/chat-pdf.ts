@@ -10,6 +10,9 @@ import { OpenAIEmbeddings } from "langchain/embeddings/openai"
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter"
 import { HNSWLib } from "langchain/vectorstores/hnswlib"
 
+
+
+
 import { PDFPage } from "./shared"
 
 const embeddingModel = new OpenAIEmbeddings({

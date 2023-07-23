@@ -19,6 +19,7 @@
   "dependencies": {
     "@hookform/resolvers": "^3.1.0",
     "@next-auth/prisma-adapter": "^1.0.7",
+    "@pinecone-database/pinecone": "^0.1.6",
     "@prisma/client": "^4.15.0",
     "@radix-ui/react-alert-dialog": "^1.0.3",
     "@radix-ui/react-checkbox": "^1.0.3",
@@ -40,6 +41,7 @@
     "cmdk": "^0.2.0",
     "cron": "^2.3.0",
     "diff": "^5.1.0",
+    "dotenv": "^16.3.1",
     "encoding": "^0.1.13",
     "gpt4all": "^1.0.0",
     "hnswlib-node": "^1.4.2",
@@ -72,6 +74,7 @@
     "@types/node": "^17.0.45",
     "@types/react": "^18.0.22",
     "@types/react-dom": "^18.0.7",
+    "@types/react-pdf": "^7.0.0",
     "@typescript-eslint/parser": "^5.58.0",
     "autoprefixer": "^10.4.13",
     "eslint": "^8.31.0",
